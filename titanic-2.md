@@ -1,4 +1,4 @@
-titanic-2
+##Titanic Survivor Data Explore
 ================
 #### Liping(Dawn) Li 
 <p>Dec 18, 2016
