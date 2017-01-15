@@ -23,3 +23,6 @@ Homeworks of data analytic course
 * [XGBoost Gradient Boost Tree &Ensemble ]
 (https://github.com/ShayleeLi/data-analytic-homework/blob/master/xgb_ensemble.R)
 </p> Train xgboost trees and ensemble result. Score 1112 on public leaderboard.</p>
+* [Project Report ]
+(https://github.com/dawn-llp/da-homework/blob/master/allstate-LipingAyush-online.pdf)
+
