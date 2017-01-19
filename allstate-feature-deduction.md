@@ -98,6 +98,6 @@ imp[1:65, 1]
 
 Lasso regression also suggests half of variables will be reasonable.
 Use "glmnet" package, run for a whole day.
-But I don't know how to select specific variables via the result of lasso regression :neutral_face:
+:neutral_face:
 
 > :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree:
